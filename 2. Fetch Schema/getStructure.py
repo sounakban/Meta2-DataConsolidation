@@ -2,7 +2,7 @@ import pandas as pd
 import re
 from io import StringIO
 
-file_list = open("../Fetch Files/MetaTwo_fileList.txt")
+file_list = open("../1. Fetch Files/MetaTwo_fileList.txt")
 fileCount=0
 header_list=[]
 for dataFile in file_list:
