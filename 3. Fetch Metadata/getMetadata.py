@@ -49,13 +49,13 @@ def get_sessionInfo():
     print("Total games should be equal to (For error check) :", counter)
 
     with open('session_list.txt', 'w') as f:
-        f.write("This is session data list of sessions for each event")
-        f.write("Total session count : %s\n" % sessionCount)
+        f.write("This is the list of sessions for each event")
+        f.write("\nTotal session count : %s\n" % sessionCount)
         f.write("-----------------------------------------------------------\n")
         json.dump(session_dict, f, sort_keys=True, indent=4)
         f.write("\n-----------------------------------------------------------\n\n\n")
-        f.write("This is session data list of games for each session")
-        f.write("Total game count : %s\n" % gameCount)
+        f.write("This is the list of games for each session")
+        f.write("\nTotal game count : %s\n" % gameCount)
         f.write("-----------------------------------------------------------\n")
         json.dump(game_dict, f, sort_keys=True, indent=4)
 
