@@ -17,11 +17,10 @@ In metdata : ECID, game_number, SID, session
 zoid_sequence : can be extracted from 'curr_zoid' [Remove]
 
 Question: 
-	What is game_type in the new format? [Answer]: game task and game environment from old format
-	completed : Seems unnecessary [Answer] : Make it metadata
-	Should I convert zoid_rep and board_rep to sparse matrices?
-	How should I handle eye data?
+	What is game_type in the new format? : game task and game environment
+	completed : Seems unnecessary [Ask purpose : Preferably Remove]
 
 	Ask everyone:
 	game_duration : can be calculated from 'ts' [Should I keep this?]
 	avg_ep_duration : can be calculated [Should I keep this?]
+	Should I convert zoid_rep and board_rep to sparse matrices?

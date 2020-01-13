@@ -1,0 +1,2 @@
+{'lines_cleared', 'curr_zoid', 'zoid_sequence', 'game_duration', 'next_zoid', 'game_number', 'SID', 'game_type', 'evt_id', 'completed', 'episode_number', 'evt_data1', 'avg_ep_duration', 'board_rep', 'level', 'evt_data2', 'zoid_rep', 'score', 'ts', 'system_ticks', 'event_type', 'ECID', 'session'}
+{'episode_number', 'score', 'evt_data1', 'ts', 'lines_cleared', 'board_rep', 'curr_zoid', 'level', 'system_ticks', 'evt_data2', 'event_type', 'evt_id', 'zoid_rep', 'next_zoid'}
