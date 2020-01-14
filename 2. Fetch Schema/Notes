@@ -11,17 +11,14 @@ Notes :
 These are the extra columns in the new meta-2 implementation:
 {'zoid_sequence', 'game_duration', 'game_number', 'SID', 'game_type', 'completed', 'avg_ep_duration', 'ECID', 'session'}
 
-
 In metdata : ECID, game_number, SID, session
 
-zoid_sequence : can be extracted from 'curr_zoid' [Remove]
 
 Question: 
-	What is game_type in the new format? [Answer]: game task and game environment from old format
-	completed : Seems unnecessary [Answer] : Make it metadata
-	Should I convert zoid_rep and board_rep to sparse matrices?
-	How should I handle eye data?
+	completed : Seems unnecessary [Answer] : Jury is still out
 
 	Ask everyone:
 	game_duration : can be calculated from 'ts' [Should I keep this?]
 	avg_ep_duration : can be calculated [Should I keep this?]
+	What is game_type in the new format? [Answer]: Remove completely and set environment to classic-tetris and task zerotillend by default
+    zoid_sequence : can be extracted from 'curr_zoid' [Remove]
