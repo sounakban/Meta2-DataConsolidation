@@ -12,6 +12,10 @@ These are the extra columns in the new meta-2 implementation:
 {'zoid_sequence', 'game_duration', 'game_number', 'SID', 'game_type', 'completed', 'avg_ep_duration', 'ECID', 'session'}
 
 In metdata : ECID, game_number, SID, session
+		Session -> SessionNr.
+		GameType -> Environment [standard = classic-tetris]
+		GameTask -> Task
+
 
 
 Question: 
