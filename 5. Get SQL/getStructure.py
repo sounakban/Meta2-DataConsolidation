@@ -109,8 +109,8 @@ def execute(gameID):
         fileCount+=1
         # break
 
-    metaData.to_csv(r'./File2.csv')
-    data.to_csv(r'./File.csv')
+    metaData.to_csv(r'./File2.csv', index=False)
+    data.to_csv(r'./File.csv', index=False)
 
     # print("Total number of files parsed : ", fileCount)
 
