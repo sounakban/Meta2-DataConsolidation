@@ -1,0 +1,2 @@
+mkdir /mnt/hassServer
+sudo mount -t cifs -o username=baners8 //hass11.win.rpi.edu/Research/cwl-data /mnt/hassServer
