@@ -112,19 +112,30 @@ def execute(gameID):
         gameID+=1
 
         # To avoid running out of emory write current data and clear out old data
-        if fileCount%1 == 0:
-            data.to_sql("Meta2_gameData", con, schema="Meta2Data", if_exists='append', index=False, chunksize=100, method=None)
-            metaData.to_sql("Meta2_gameMetadata", con, schema="Meta2Data", if_exists='append', index=False, chunksize=50000, method=None)
+        if fileCount%5 == 0:
+            writemode = 'a'
+            header = False
+            if  fileCount == 5:
+                writemode = 'w'
+                header = True
+            metaData.to_csv(r'./File2.csv', index=False, mode=writemode, header=header)
+            data.to_csv(r'./File.csv', index=False, mode=writemode, header=header)
             data = pd.DataFrame(columns=columns_data)
             metaData = pd.DataFrame(columns=columns_metadata)
 
-        if fileCount == 2:
+        if fileCount == 10:
             break
 
         # break
 
-    data.to_sql("Meta2_gameData", con, schema="Meta2Data", if_exists='append', index=False, chunksize=100, method=None)
-    metaData.to_sql("Meta2_gameMetadata", con, schema="Meta2Data", if_exists='append', index=False, chunksize=50000, method=None)
+    if  fileCount < 5:
+        writemode = 'w'
+        header = True
+    else:
+        writemode = 'a'
+        header = False
+    metaData.to_csv(r'./File2.csv', index=False, mode=writemode, header=header)
+    data.to_csv(r'./File.csv', index=False, mode=writemode, header=header)
 
     # print("Total number of files parsed : ", fileCount)
 
