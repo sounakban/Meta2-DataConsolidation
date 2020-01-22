@@ -5,7 +5,7 @@ from io import StringIO
 columns_data = ['gameID', 'ts', 'system_ticks', 'event_type', 'episode_number', \
                 'level', 'score', 'lines_cleared', 'evt_id', 'evt_data1', \
                 'evt_data2', 'curr_zoid', 'next_zoid', 'board_rep', 'zoid_rep']
-columns_metadata = ["Meta-Two build", "Exp. Start Time", "Game Start", "GameStart Tick", \
+columns_metadata = ["gameID", "Meta-Two build", "Exp. Start Time", "Game Start", "GameStart Tick", \
             "CPU Tick Frequency", "SID", "USID", "ECID", "Environment", "Task", \
             "SessionNr.", "GameNr.", "Input type", "Connected Inputs", "randSeed", \
             "Screen resolution", "Screen dpi", "Fullscreen", "Window height", \
@@ -80,13 +80,16 @@ def merge_dataFrames(main_df, new_df, type):
 
 def execute(gameID):
     file_list = open("../1. Fetch Files/MetaTwo_fileList.txt")
-    fileCount=gameID
+    fileCount=0
 
     data = pd.DataFrame(columns=columns_data)
     metaData = pd.DataFrame(columns=columns_metadata)
 
     for dataFile in file_list:
+        fileCount+=1
+        print(fileCount)
         if "eye" in dataFile:       # Skip if data is eye data
+            fileCount-=1
             continue
         dataFile = dataFile.strip()     # Remove spaces from begining or end of file name
         print(dataFile)
@@ -97,8 +100,8 @@ def execute(gameID):
             # print(content[0:25])
 
         # Donot change order of the following function calls 'grab_data' modifies 'content'
-        new_metaData = grab_metadata(content, fileCount)
-        new_data = grab_data(content, fileCount)
+        new_metaData = grab_metadata(content, gameID)
+        new_data = grab_data(content, gameID)
 
         # new_metaData.to_csv(r'./File2.csv')
         # new_data.to_csv(r'./File.csv')
@@ -106,11 +109,33 @@ def execute(gameID):
         data = merge_dataFrames(data, new_data, "data")
         metaData = merge_dataFrames(metaData, new_metaData, "meta")
 
-        fileCount+=1
+        gameID+=1
+
+        # To avoid running out of emory write current data and clear out old data
+        if fileCount%5 == 0:
+            writemode = 'a'
+            header = False
+            if  fileCount == 5:
+                writemode = 'w'
+                header = True
+            metaData.to_csv(r'./File2.csv', index=False, mode=writemode, header=header)
+            data.to_csv(r'./File.csv', index=False, mode=writemode, header=header)
+            data = pd.DataFrame(columns=columns_data)
+            metaData = pd.DataFrame(columns=columns_metadata)
+
+        if fileCount == 10:
+            break
+
         # break
 
-    metaData.to_csv(r'./File2.csv', index=False)
-    data.to_csv(r'./File.csv', index=False)
+    if  fileCount < 5:
+        writemode = 'w'
+        header = True
+    else:
+        writemode = 'a'
+        header = False
+    metaData.to_csv(r'./File2.csv', index=False, mode=writemode, header=header)
+    data.to_csv(r'./File.csv', index=False, mode=writemode, header=header)
 
     # print("Total number of files parsed : ", fileCount)
 

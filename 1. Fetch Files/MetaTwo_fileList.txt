@@ -1,2 +1,753 @@
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-131031_002/002_2018-10-20_13-10-31_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-131031_002/002_2018-10-20_13-12-40_game.tsv
 /mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-131031_002/002_2018-10-20_13-14-05_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-131031_002/002_2018-10-20_13-22-41_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-131031_002/002_2018-10-20_13-30-26_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-133657_004/004_2018-10-20_13-36-57_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-133657_004/004_2018-10-20_13-38-41_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-133657_004/004_2018-10-20_13-39-37_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-133657_004/004_2018-10-20_13-47-03_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-133657_004/004_2018-10-20_13-54-15_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-140948_006/006_2018-10-20_14-09-49_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-140948_006/006_2018-10-20_14-10-59_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-140948_006/006_2018-10-20_14-12-19_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-140948_006/006_2018-10-20_14-17-42_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-140948_006/006_2018-10-20_14-24-11_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-142846_008/008_2018-10-20_14-28-47_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-142846_008/008_2018-10-20_14-30-10_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-142846_008/008_2018-10-20_14-31-09_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-142846_008/008_2018-10-20_14-41-37_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-142846_008/008_2018-10-20_14-53-48_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-151045_009/009_2018-10-20_15-10-46_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-151045_009/009_2018-10-20_15-12-30_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-151045_009/009_2018-10-20_15-13-02_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-151045_009/009_2018-10-20_15-16-40_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-151045_009/009_2018-10-20_15-22-13_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-153010_011/011_2018-10-20_15-30-10_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-153010_011/011_2018-10-20_15-31-38_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-153010_011/011_2018-10-20_15-32-27_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-153010_011/011_2018-10-20_15-41-00_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-153010_011/011_2018-10-20_15-49-34_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-160212_013/013_2018-10-20_16-02-12_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-160212_013/013_2018-10-20_16-04-06_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-160212_013/013_2018-10-20_16-06-22_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-160212_013/013_2018-10-20_16-15-48_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-160212_013/013_2018-10-20_16-19-36_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-160212_013/013_2018-10-20_16-21-40_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-163541_015/015_2018-10-20_16-35-41_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-163541_015/015_2018-10-20_16-37-01_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-163541_015/015_2018-10-20_16-38-07_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-163541_015/015_2018-10-20_16-46-34_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-163541_015/015_2018-10-20_16-55-35_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-172008_017/017_2018-10-20_17-20-08_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-172008_017/017_2018-10-20_17-21-23_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-172008_017/017_2018-10-20_17-22-45_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-172008_017/017_2018-10-20_17-25-40_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-172008_017/017_2018-10-20_17-32-15_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-172008_017/017_2018-10-20_17-32-47_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-173827_019/019_2018-10-20_17-38-27_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-173827_019/019_2018-10-20_17-40-16_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-173827_019/019_2018-10-20_17-42-45_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-173827_019/019_2018-10-20_17-50-20_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-173827_019/019_2018-10-20_17-52-49_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-180221_021/021_2018-10-20_18-02-22_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-180221_021/021_2018-10-20_18-03-44_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-180221_021/021_2018-10-20_18-04-52_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-180221_021/021_2018-10-20_18-14-46_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-180221_021/021_2018-10-20_18-25-55_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-184018_024/024_2018-10-20_18-40-19_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-184018_024/024_2018-10-20_18-41-37_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-184018_024/024_2018-10-20_18-42-25_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-184018_024/024_2018-10-20_18-45-48_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-184018_024/024_2018-10-20_18-55-31_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-190603_026/026_2018-10-20_19-06-03_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-190603_026/026_2018-10-20_19-07-18_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-190603_026/026_2018-10-20_19-08-22_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-190603_026/026_2018-10-20_19-14-30_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 1/181020-190603_026/026_2018-10-20_19-20-17_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-131029_001/001_2018-10-20_13-10-29_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-131029_001/001_2018-10-20_13-12-22_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-131029_001/001_2018-10-20_13-13-42_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-131029_001/001_2018-10-20_13-24-17_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-131029_001/001_2018-10-20_13-32-08_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-133623_003/003_2018-10-20_13-36-23_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-133623_003/003_2018-10-20_13-37-34_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-133623_003/003_2018-10-20_13-39-05_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-133623_003/003_2018-10-20_13-41-15_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-133623_003/003_2018-10-20_13-51-59_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-140605_005/005_2018-10-20_14-06-05_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-140605_005/005_2018-10-20_14-07-12_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-140605_005/005_2018-10-20_14-10-30_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-140605_005/005_2018-10-20_14-18-18_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-140605_005/005_2018-10-20_14-28-42_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-143717_007/007_2018-10-20_14-37-17_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-143717_007/007_2018-10-20_14-39-02_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-143717_007/007_2018-10-20_14-39-59_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-143717_007/007_2018-10-20_14-49-32_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-143717_007/007_2018-10-20_14-58-43_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-151043_010/010_2018-10-20_15-10-44_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-151043_010/010_2018-10-20_15-12-04_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-151043_010/010_2018-10-20_15-13-16_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-151043_010/010_2018-10-20_15-24-59_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-151043_010/010_2018-10-20_15-34-26_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-154107_012/012_2018-10-20_15-41-07_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-154330_012/012_2018-10-20_15-43-30_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-154330_012/012_2018-10-20_15-44-01_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-154330_012/012_2018-10-20_15-44-59_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-154330_012/012_2018-10-20_15-54-10_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-154330_012/012_2018-10-20_16-03-13_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-161009_014/014_2018-10-20_16-10-09_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-161009_014/014_2018-10-20_16-11-27_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-161009_014/014_2018-10-20_16-12-35_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-161009_014/014_2018-10-20_16-21-15_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-161009_014/014_2018-10-20_16-23-51_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-161009_014/014_2018-10-20_16-33-55_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-163952_016/016_2018-10-20_16-39-52_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-163952_016/016_2018-10-20_16-41-21_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-163952_016/016_2018-10-20_16-42-37_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-163952_016/016_2018-10-20_16-52-08_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-163952_016/016_2018-10-20_16-58-55_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-172425_018/018_2018-10-20_17-24-26_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-172425_018/018_2018-10-20_17-25-55_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-172425_018/018_2018-10-20_17-26-46_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-172425_018/018_2018-10-20_17-28-49_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-172425_018/018_2018-10-20_17-38-09_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-174200_020/020_2018-10-20_17-42-00_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-174200_020/020_2018-10-20_17-43-16_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-174200_020/020_2018-10-20_17-44-10_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-174200_020/020_2018-10-20_17-47-47_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-174200_020/020_2018-10-20_17-55-43_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-181003_022/022_2018-10-20_18-10-04_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-181003_022/022_2018-10-20_18-11-06_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-181003_022/022_2018-10-20_18-13-20_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-181003_022/022_2018-10-20_18-20-43_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-181003_022/022_2018-10-20_18-24-16_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-182910_023/023_2018-10-20_18-29-10_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-182910_023/023_2018-10-20_18-30-58_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-182910_023/023_2018-10-20_18-31-55_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-182910_023/023_2018-10-20_18-36-49_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-182910_023/023_2018-10-20_18-48-27_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-185228_025/025_2018-10-20_18-52-28_eye.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-185228_025/025_2018-10-20_18-55-09_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-185228_025/025_2018-10-20_18-55-58_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-185228_025/025_2018-10-20_18-58-15_game.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC18/Data/Laptop 2/181020-185228_025/025_2018-10-20_19-04-38_game.tsv
 /mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-054110_19CWTC003_SPEEDTETRIS/19CWTC003_2019-10-19_05-41-25_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-054110_19CWTC003_SPEEDTETRIS/19CWTC003_2019-10-19_05-45-32_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-055305_19CTWC003_SPEEDTETRIS/19CTWC003_2019-10-19_05-53-11_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-055305_19CTWC003_SPEEDTETRIS/19CTWC003_2019-10-19_06-01-45_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-061716_19CTWC006_SPEEDTETRIS/19CTWC006_2019-10-19_06-17-27_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-061716_19CTWC006_SPEEDTETRIS/19CTWC006_2019-10-19_06-26-02_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-063409_19CTWC005_SPEEDTETRIS/19CTWC005_2019-10-19_06-34-15_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-063409_19CTWC005_SPEEDTETRIS/19CTWC005_2019-10-19_06-37-15_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-064952_19CTWC009_SPEEDTETRIS/19CTWC009_2019-10-19_06-49-59_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-064952_19CTWC009_SPEEDTETRIS/19CTWC009_2019-10-19_06-59-11_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-071400_19CTWC010_SPEEDTETRIS/19CTWC010_2019-10-19_07-14-13_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-071400_19CTWC010_SPEEDTETRIS/19CTWC010_2019-10-19_07-23-23_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-074328_19CTWC015_SPEEDTETRIS/19CTWC015_2019-10-19_07-43-36_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-074328_19CTWC015_SPEEDTETRIS/19CTWC015_2019-10-19_07-46-29_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-075140_19CTWC015_SPEEDTETRIS/19CTWC015_2019-10-19_07-51-42_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-075140_19CTWC015_SPEEDTETRIS/19CTWC015_2019-10-19_07-58-58_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-081235_19CTWC017_SPEEDTETRIS/19CTWC017_2019-10-19_08-12-55_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-081235_19CTWC017_SPEEDTETRIS/19CTWC017_2019-10-19_08-18-31_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-082241_19CTWC18_SPEEDTETRIS/19CTWC18_2019-10-19_08-22-49_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-082241_19CTWC18_SPEEDTETRIS/19CTWC18_2019-10-19_08-26-45_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-083734_19CTWC021_SPEEDTETRIS/19CTWC021_2019-10-19_08-37-42_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-083734_19CTWC021_SPEEDTETRIS/19CTWC021_2019-10-19_08-41-59_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-090145_19CTWC027_SPEEDTETRIS/19CTWC027_2019-10-19_09-01-54_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-090145_19CTWC027_SPEEDTETRIS/19CTWC027_2019-10-19_09-12-01_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-093001_19CTWC029_SPEEDTETRIS/19CTWC029_2019-10-19_09-30-12_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-093001_19CTWC029_SPEEDTETRIS/19CTWC029_2019-10-19_09-32-45_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-093852_19CTWC029_SPEEDTETRIS/19CTWC029_2019-10-19_09-39-23_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-093852_19CTWC029_SPEEDTETRIS/19CTWC029_2019-10-19_09-44-29_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-100139_19CTWC032_SPEEDTETRIS/19CTWC032_2019-10-19_10-01-42_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-100139_19CTWC032_SPEEDTETRIS/19CTWC032_2019-10-19_10-10-55_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-101615_19CTWC033_SPEEDTETRIS/19CTWC033_2019-10-19_10-16-24_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-101615_19CTWC033_SPEEDTETRIS/19CTWC033_2019-10-19_10-22-43_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-102448_19CTWC033_SPEEDTETRIS/19CTWC033_2019-10-19_10-24-50_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-102448_19CTWC033_SPEEDTETRIS/19CTWC033_2019-10-19_10-27-44_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-103539_19CTWC006_SPEEDTETRIS/19CTWC006_2019-10-19_10-35-57_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-103539_19CTWC006_SPEEDTETRIS/19CTWC006_2019-10-19_10-44-29_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-105335_19CTWC006_SPEEDTETRIS/19CTWC006_2019-10-19_10-53-43_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-105335_19CTWC006_SPEEDTETRIS/19CTWC006_2019-10-19_10-55-20_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-110638_19CTWC026_SPEEDTETRIS/19CTWC026_2019-10-19_11-06-47_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-110638_19CTWC026_SPEEDTETRIS/19CTWC026_2019-10-19_11-12-37_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/ultraspeedtetris_ae8ff7e1c9133c9de40ade380deaf4b8/191019-051223_test_ultraspeedtetris/test_2019-10-19_05-12-29_classic-tetris_zerotillone.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_762/Logs/ultraspeedtetris_ae8ff7e1c9133c9de40ade380deaf4b8/191019-051223_test_ultraspeedtetris/test_2019-10-19_05-12-41_classic-tetris_zerotillone.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-051323_19CTWC0001_SPEEDTETRIS/19CTWC0001_2019-10-19_05-13-36_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-051323_19CTWC0001_SPEEDTETRIS/19CTWC0001_2019-10-19_05-24-08_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-053345_19CTWC002_SPEEDTETRIS/19CTWC002_2019-10-19_05-33-56_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-053345_19CTWC002_SPEEDTETRIS/19CTWC002_2019-10-19_05-41-14_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-055655_19CTWC004_SPEEDTETRIS/19CTWC004_2019-10-19_05-57-01_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-055655_19CTWC004_SPEEDTETRIS/19CTWC004_2019-10-19_06-06-00_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-061931_19CTWC007_SPEEDTETRIS/19CTWC007_2019-10-19_06-19-39_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-061931_19CTWC007_SPEEDTETRIS/19CTWC007_2019-10-19_06-28-54_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-064108_19CTWC008_SPEEDTETRIS/19CTWC008_2019-10-19_06-41-17_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-064108_19CTWC008_SPEEDTETRIS/19CTWC008_2019-10-19_06-51-06_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-065915_19CTWC011_SPEEDTETRIS/19CTWC011_2019-10-19_06-59-23_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-065915_19CTWC011_SPEEDTETRIS/19CTWC011_2019-10-19_07-02-37_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-071943_19CTWC013_SPEEDTETRIS/19CTWC013_2019-10-19_07-19-48_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-071943_19CTWC013_SPEEDTETRIS/19CTWC013_2019-10-19_07-23-46_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-073503_19CTWC012_SPEEDTETRIS/19CTWC012_2019-10-19_07-35-18_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-073503_19CTWC012_SPEEDTETRIS/19CTWC012_2019-10-19_07-36-42_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-073858_19CTWC012_SPEEDTETRIS/19CTWC012_2019-10-19_07-39-00_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-073858_19CTWC012_SPEEDTETRIS/19CTWC012_2019-10-19_07-41-26_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-075730_19CTWC016_SPEEDTETRIS/19CTWC016_2019-10-19_07-57-46_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-075730_19CTWC016_SPEEDTETRIS/19CTWC016_2019-10-19_07-59-45_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-081917_19CTWC19_SPEEDTETRIS/19CTWC19_2019-10-19_08-19-28_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-081917_19CTWC19_SPEEDTETRIS/19CTWC19_2019-10-19_08-22-41_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-083042_19CTWC022_SPEEDTETRIS/19CTWC022_2019-10-19_08-30-54_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-083042_19CTWC022_SPEEDTETRIS/19CTWC022_2019-10-19_08-37-48_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-085334_19CTWC024_SPEEDTETRIS/19CTWC024_2019-10-19_08-53-42_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-085334_19CTWC024_SPEEDTETRIS/19CTWC024_2019-10-19_08-57-21_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-085921_19CTWC024_SPEEDTETRIS/19CTWC024_2019-10-19_08-59-28_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-085921_19CTWC024_SPEEDTETRIS/19CTWC024_2019-10-19_09-01-03_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-090401_19CTWC024_SPEEDTETRIS/19CTWC024_2019-10-19_09-04-03_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-090401_19CTWC024_SPEEDTETRIS/19CTWC024_2019-10-19_09-13-56_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-092017_19CTWC028_SPEEDTETRIS/19CTWC028_2019-10-19_09-20-23_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-092017_19CTWC028_SPEEDTETRIS/19CTWC028_2019-10-19_09-30-13_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-094900_19CTWC030_SPEEDTETRIS/19CTWC030_2019-10-19_09-49-06_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-094900_19CTWC030_SPEEDTETRIS/19CTWC030_2019-10-19_09-52-41_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-100225_19CTWC031_SPEEDTETRIS/19CTWC031_2019-10-19_10-02-29_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-100225_19CTWC031_SPEEDTETRIS/19CTWC031_2019-10-19_10-07-44_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-101627_19CTWC034_SPEEDTETRIS/19CTWC034_2019-10-19_10-16-33_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-101627_19CTWC034_SPEEDTETRIS/19CTWC034_2019-10-19_10-19-27_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-102820_19CTWC037_SPEEDTETRIS/19CTWC037_2019-10-19_10-28-27_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-102820_19CTWC037_SPEEDTETRIS/19CTWC037_2019-10-19_10-30-55_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-103615_19CTWC03_SPEEDTETRIS/19CTWC03_2019-10-19_10-36-30_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-103615_19CTWC03_SPEEDTETRIS/19CTWC03_2019-10-19_10-42-31_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-104522_19CTWC038_SPEEDTETRIS/19CTWC038_2019-10-19_10-45-38_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-104522_19CTWC038_SPEEDTETRIS/19CTWC038_2019-10-19_10-58-35_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-111220_19CTWC011_SPEEDTETRIS/19CTWC011_2019-10-19_11-12-30_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-111220_19CTWC011_SPEEDTETRIS/19CTWC011_2019-10-19_11-14-49_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-113201_19CTWC039_SPEEDTETRIS/19CTWC039_2019-10-19_11-32-26_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/SPEEDTETRIS_e28f7b28ed14f38eb7c97752eb03919a/191019-113201_19CTWC039_SPEEDTETRIS/19CTWC039_2019-10-19_11-41-55_classic-tetris_zerotillnineteen.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/ultraspeedtetris_ae8ff7e1c9133c9de40ade380deaf4b8/191019-050119_test001_ultraspeedtetris/test001_2019-10-19_05-01-28_classic-tetris_zerotillone.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_friday_804/Logs/ultraspeedtetris_ae8ff7e1c9133c9de40ade380deaf4b8/191019-050119_test001_ultraspeedtetris/test001_2019-10-19_05-04-59_classic-tetris_zerotillone.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-041453_19CTWC015_NONXBO-EXP/19CTWC015_2019-10-20_04-14-55_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-041453_19CTWC015_NONXBO-EXP/19CTWC015_2019-10-20_04-17-43_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-041453_19CTWC015_NONXBO-EXP/19CTWC015_2019-10-20_04-22-32_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-041453_19CTWC015_NONXBO-EXP/19CTWC015_2019-10-20_04-25-29_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-043546_19CTWC043_NONXBO-EXP/19CTWC043_2019-10-20_04-35-51_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-043546_19CTWC043_NONXBO-EXP/19CTWC043_2019-10-20_04-38-03_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-043546_19CTWC043_NONXBO-EXP/19CTWC043_2019-10-20_04-40-47_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-043546_19CTWC043_NONXBO-EXP/19CTWC043_2019-10-20_04-43-59_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-044857_19CTWC003_NONXBO-EXP/19CTWC003_2019-10-20_04-49-10_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-044857_19CTWC003_NONXBO-EXP/19CTWC003_2019-10-20_04-52-28_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-044857_19CTWC003_NONXBO-EXP/19CTWC003_2019-10-20_04-56-12_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-044857_19CTWC003_NONXBO-EXP/19CTWC003_2019-10-20_04-58-56_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-050503_19CTWC042_NONXBO-EXP/19CTWC042_2019-10-20_05-05-13_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-050503_19CTWC042_NONXBO-EXP/19CTWC042_2019-10-20_05-08-17_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-050503_19CTWC042_NONXBO-EXP/19CTWC042_2019-10-20_05-10-53_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-050503_19CTWC042_NONXBO-EXP/19CTWC042_2019-10-20_05-14-15_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-053303_19CTWC036_NONXBO-EXP/19CTWC036_2019-10-20_05-33-15_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-053303_19CTWC036_NONXBO-EXP/19CTWC036_2019-10-20_05-41-04_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-053303_19CTWC036_NONXBO-EXP/19CTWC036_2019-10-20_05-42-45_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-053303_19CTWC036_NONXBO-EXP/19CTWC036_2019-10-20_05-48-22_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-055541_19CTWC044_NONXBO-EXP/19CTWC044_2019-10-20_05-55-53_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-055541_19CTWC044_NONXBO-EXP/19CTWC044_2019-10-20_05-59-06_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-055541_19CTWC044_NONXBO-EXP/19CTWC044_2019-10-20_06-00-59_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-055541_19CTWC044_NONXBO-EXP/19CTWC044_2019-10-20_06-02-54_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-061129_19CTWC017_NONXBO-EXP/19CTWC017_2019-10-20_06-11-37_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-061129_19CTWC017_NONXBO-EXP/19CTWC017_2019-10-20_06-14-19_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-061129_19CTWC017_NONXBO-EXP/19CTWC017_2019-10-20_06-22-49_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-061129_19CTWC017_NONXBO-EXP/19CTWC017_2019-10-20_06-25-12_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-063539_19CTWC045_NONXBO-EXP/19CTWC045_2019-10-20_06-35-47_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-063539_19CTWC045_NONXBO-EXP/19CTWC045_2019-10-20_06-37-39_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-063539_19CTWC045_NONXBO-EXP/19CTWC045_2019-10-20_06-40-53_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-063539_19CTWC045_NONXBO-EXP/19CTWC045_2019-10-20_06-42-34_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-064859_19CTWC017_NONXBO-EXP/19CTWC017_2019-10-20_06-49-03_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-064859_19CTWC017_NONXBO-EXP/19CTWC017_2019-10-20_06-55-39_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-064859_19CTWC017_NONXBO-EXP/19CTWC017_2019-10-20_07-00-13_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-064859_19CTWC017_NONXBO-EXP/19CTWC017_2019-10-20_07-04-49_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-070759_19CTWC017_NONXBO-EXP/19CTWC017_2019-10-20_07-08-02_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-070759_19CTWC017_NONXBO-EXP/19CTWC017_2019-10-20_07-09-58_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-070759_19CTWC017_NONXBO-EXP/19CTWC017_2019-10-20_07-14-19_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-070759_19CTWC017_NONXBO-EXP/19CTWC017_2019-10-20_07-19-43_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-072627_19CTWC009_NONXBO-EXP/19CTWC009_2019-10-20_07-26-54_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-072851_19CTWC009_NONXBO-EXP/19CTWC009_2019-10-20_07-30-19_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-072851_19CTWC009_NONXBO-EXP/19CTWC009_2019-10-20_07-32-37_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-072851_19CTWC009_NONXBO-EXP/19CTWC009_2019-10-20_07-35-37_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-072851_19CTWC009_NONXBO-EXP/19CTWC009_2019-10-20_07-41-51_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-074839_19CTWC048_NONXBO-EXP/19CTWC048_2019-10-20_07-48-45_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-074839_19CTWC048_NONXBO-EXP/19CTWC048_2019-10-20_07-52-02_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-074839_19CTWC048_NONXBO-EXP/19CTWC048_2019-10-20_07-54-52_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-074839_19CTWC048_NONXBO-EXP/19CTWC048_2019-10-20_07-56-59_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-080133_19CTWC004_NONXBO-EXP/19CTWC004_2019-10-20_08-01-39_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-080133_19CTWC004_NONXBO-EXP/19CTWC004_2019-10-20_08-05-09_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-080133_19CTWC004_NONXBO-EXP/19CTWC004_2019-10-20_08-08-55_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-080133_19CTWC004_NONXBO-EXP/19CTWC004_2019-10-20_08-12-58_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-081757_19CTWC011_NONXBO-EXP/19CTWC011_2019-10-20_08-18-12_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-081757_19CTWC011_NONXBO-EXP/19CTWC011_2019-10-20_08-23-55_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-081757_19CTWC011_NONXBO-EXP/19CTWC011_2019-10-20_08-26-21_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-081757_19CTWC011_NONXBO-EXP/19CTWC011_2019-10-20_08-32-04_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-032211_19CTWC008_NONXBO-EXP/19CTWC008_2019-10-20_03-22-19_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-032211_19CTWC008_NONXBO-EXP/19CTWC008_2019-10-20_03-24-31_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-032211_19CTWC008_NONXBO-EXP/19CTWC008_2019-10-20_03-28-28_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-032211_19CTWC008_NONXBO-EXP/19CTWC008_2019-10-20_03-31-31_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-034008_19CTWC017_NONXBO-EXP/19CTWC017_2019-10-20_03-40-16_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-034008_19CTWC017_NONXBO-EXP/19CTWC017_2019-10-20_03-43-28_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-034008_19CTWC017_NONXBO-EXP/19CTWC017_2019-10-20_03-45-01_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-034008_19CTWC017_NONXBO-EXP/19CTWC017_2019-10-20_03-48-45_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-035932_19CTWC015_NONXBO-EXP/19CTWC015_2019-10-20_03-59-37_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-035932_19CTWC015_NONXBO-EXP/19CTWC015_2019-10-20_04-01-01_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-035932_19CTWC015_NONXBO-EXP/19CTWC015_2019-10-20_04-03-05_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-035932_19CTWC015_NONXBO-EXP/19CTWC015_2019-10-20_04-05-21_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-061024_19CTWC017_NONXBO-EXP/19CTWC017_2019-10-20_06-10-33_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_762/Logs/ultraspeedtetris_ae8ff7e1c9133c9de40ade380deaf4b8/191020-060730_TEST_ultraspeedtetris/TEST_2019-10-20_06-07-43_classic-tetris_zerotillone.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/9test_22b03033b0f6b41f276462e351e92890/191020-022307_19CTWC029_9test/19CTWC029_2019-10-20_02-23-09_classic_shortstart_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/9test_22b03033b0f6b41f276462e351e92890/191020-022307_19CTWC029_9test/19CTWC029_2019-10-20_02-24-36_classic_shortstart_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/9test_22b03033b0f6b41f276462e351e92890/191020-022912_19CTWC001_9test/19CTWC001_2019-10-20_02-29-13_classic_shortstart_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/9test_22b03033b0f6b41f276462e351e92890/191020-023050_19CTWC001_9test/19CTWC001_2019-10-20_02-30-51_classic_shortstart_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/9test_22b03033b0f6b41f276462e351e92890/191020-023236_19CTWC001_9test/19CTWC001_2019-10-20_02-32-37_classic_shortstart_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/9test_22b03033b0f6b41f276462e351e92890/191020-023236_19CTWC001_9test/19CTWC001_2019-10-20_02-34-05_classic_shortstart_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/9test_22b03033b0f6b41f276462e351e92890/191020-023236_19CTWC001_9test/19CTWC001_2019-10-20_02-39-34_classic_shortstart_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/9test_22b03033b0f6b41f276462e351e92890/191020-024250_19CTWC013_9test/19CTWC013_2019-10-20_02-42-52_classic_shortstart_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/9test_22b03033b0f6b41f276462e351e92890/191020-024250_19CTWC013_9test/19CTWC013_2019-10-20_02-43-58_classic_shortstart_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/9test_22b03033b0f6b41f276462e351e92890/191020-024250_19CTWC013_9test/19CTWC013_2019-10-20_02-46-54_classic_shortstart_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/9test_22b03033b0f6b41f276462e351e92890/191020-024827_19CTWC014_9test/19CTWC014_2019-10-20_02-48-29_classic_shortstart_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/9test_22b03033b0f6b41f276462e351e92890/191020-024827_19CTWC014_9test/19CTWC014_2019-10-20_02-49-46_classic_shortstart_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/9test_22b03033b0f6b41f276462e351e92890/191020-024827_19CTWC014_9test/19CTWC014_2019-10-20_03-02-43_classic_shortstart_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/9test_22b03033b0f6b41f276462e351e92890/191020-024827_19CTWC014_9test/19CTWC014_2019-10-20_03-03-27_classic_shortstart_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/9test_22b03033b0f6b41f276462e351e92890/191020-024827_19CTWC014_9test/19CTWC014_2019-10-20_03-04-52_classic_shortstart_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/9test_22b03033b0f6b41f276462e351e92890/191020-024827_19CTWC014_9test/19CTWC014_2019-10-20_03-05-39_classic_shortstart_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/9test_22b03033b0f6b41f276462e351e92890/191020-024827_19CTWC014_9test/19CTWC014_2019-10-20_03-06-42_classic_shortstart_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/9test_22b03033b0f6b41f276462e351e92890/191020-024827_19CTWC014_9test/19CTWC014_2019-10-20_03-07-11_classic_shortstart_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-042015_19CTWC008_NONXBO-EXP/19CTWC008_2019-10-20_04-20-18_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-042015_19CTWC008_NONXBO-EXP/19CTWC008_2019-10-20_04-24-13_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-042015_19CTWC008_NONXBO-EXP/19CTWC008_2019-10-20_04-29-02_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-042015_19CTWC008_NONXBO-EXP/19CTWC008_2019-10-20_04-30-35_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-043741_19CTWC006_NONXBO-EXP/19CTWC006_2019-10-20_04-37-54_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-043741_19CTWC006_NONXBO-EXP/19CTWC006_2019-10-20_04-43-45_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-043741_19CTWC006_NONXBO-EXP/19CTWC006_2019-10-20_04-49-47_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-043741_19CTWC006_NONXBO-EXP/19CTWC006_2019-10-20_04-55-50_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-050255_19CTWC005_NONXBO-EXP/19CTWC005_2019-10-20_05-03-04_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-050255_19CTWC005_NONXBO-EXP/19CTWC005_2019-10-20_05-04-46_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-050255_19CTWC005_NONXBO-EXP/19CTWC005_2019-10-20_05-06-42_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-050255_19CTWC005_NONXBO-EXP/19CTWC005_2019-10-20_05-08-32_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-051721_19CTWC008_NONXBO-EXP/19CTWC008_2019-10-20_05-17-25_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-051721_19CTWC008_NONXBO-EXP/19CTWC008_2019-10-20_05-19-15_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-051721_19CTWC008_NONXBO-EXP/19CTWC008_2019-10-20_05-24-13_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-051721_19CTWC008_NONXBO-EXP/19CTWC008_2019-10-20_05-27-02_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-053906_19CTWC025_NONXBO-EXP/19CTWC025_2019-10-20_05-41-17_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-053906_19CTWC025_NONXBO-EXP/19CTWC025_2019-10-20_05-44-43_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-053906_19CTWC025_NONXBO-EXP/19CTWC025_2019-10-20_05-47-07_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-053906_19CTWC025_NONXBO-EXP/19CTWC025_2019-10-20_05-51-31_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-055659_19CTWC005_NONXBO-EXP/19CTWC005_2019-10-20_05-57-03_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-055659_19CTWC005_NONXBO-EXP/19CTWC005_2019-10-20_06-01-31_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-055659_19CTWC005_NONXBO-EXP/19CTWC005_2019-10-20_06-04-12_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-055659_19CTWC005_NONXBO-EXP/19CTWC005_2019-10-20_06-09-46_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-061425_19CTWC008_NONXBO-EXP/19CTWC008_2019-10-20_06-14-30_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-061425_19CTWC008_NONXBO-EXP/19CTWC008_2019-10-20_06-18-00_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-061425_19CTWC008_NONXBO-EXP/19CTWC008_2019-10-20_06-21-27_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-061425_19CTWC008_NONXBO-EXP/19CTWC008_2019-10-20_06-25-26_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-063202_19CTWC047_NONXBO-EXP/19CTWC047_2019-10-20_06-32-09_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-063202_19CTWC047_NONXBO-EXP/19CTWC047_2019-10-20_06-34-34_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-063202_19CTWC047_NONXBO-EXP/19CTWC047_2019-10-20_06-35-39_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-063202_19CTWC047_NONXBO-EXP/19CTWC047_2019-10-20_06-37-39_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-064633_19CTWC005_NONXBO-EXP/19CTWC005_2019-10-20_06-46-36_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-064633_19CTWC005_NONXBO-EXP/19CTWC005_2019-10-20_06-50-26_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-064633_19CTWC005_NONXBO-EXP/19CTWC005_2019-10-20_06-54-21_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-064633_19CTWC005_NONXBO-EXP/19CTWC005_2019-10-20_06-58-10_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-070720_19CTWC008_NONXBO-EXP/19CTWC008_2019-10-20_07-07-26_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-070720_19CTWC008_NONXBO-EXP/19CTWC008_2019-10-20_07-13-29_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-070720_19CTWC008_NONXBO-EXP/19CTWC008_2019-10-20_07-16-40_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-070720_19CTWC008_NONXBO-EXP/19CTWC008_2019-10-20_07-22-33_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-073108_19CTWC005_NONXBO-EXP/19CTWC005_2019-10-20_07-31-12_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-073108_19CTWC005_NONXBO-EXP/19CTWC005_2019-10-20_07-33-55_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-073108_19CTWC005_NONXBO-EXP/19CTWC005_2019-10-20_07-36-28_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-073108_19CTWC005_NONXBO-EXP/19CTWC005_2019-10-20_07-39-48_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-074811_19CTWC017_NONXBO-EXP/19CTWC017_2019-10-20_07-48-15_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-074811_19CTWC017_NONXBO-EXP/19CTWC017_2019-10-20_07-53-40_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-074811_19CTWC017_NONXBO-EXP/19CTWC017_2019-10-20_08-00-10_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-074811_19CTWC017_NONXBO-EXP/19CTWC017_2019-10-20_08-03-11_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-080719_19CTWC008_NONXBO-EXP/19CTWC008_2019-10-20_08-07-20_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-080719_19CTWC008_NONXBO-EXP/19CTWC008_2019-10-20_08-08-55_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-081503_19CTWC035_NONXBO-EXP/19CTWC035_2019-10-20_08-15-12_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-081503_19CTWC035_NONXBO-EXP/19CTWC035_2019-10-20_08-20-01_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-081503_19CTWC035_NONXBO-EXP/19CTWC035_2019-10-20_08-23-24_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a1454dc76cc3f172143859504f49f559/191020-081503_19CTWC035_NONXBO-EXP/19CTWC035_2019-10-20_08-25-40_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-031227_19CTWC039_NONXBO-EXP/19CTWC039_2019-10-20_03-12-34_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-031227_19CTWC039_NONXBO-EXP/19CTWC039_2019-10-20_03-13-09_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-031227_19CTWC039_NONXBO-EXP/19CTWC039_2019-10-20_03-13-45_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-031227_19CTWC039_NONXBO-EXP/19CTWC039_2019-10-20_03-14-26_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-031547_TEST_NONXBO-EXP/TEST_2019-10-20_03-15-51_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-031547_TEST_NONXBO-EXP/TEST_2019-10-20_03-17-06_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-032510_19CTWC040_NONXBO-EXP/19CTWC040_2019-10-20_03-25-20_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-032510_19CTWC040_NONXBO-EXP/19CTWC040_2019-10-20_03-27-24_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-032510_19CTWC040_NONXBO-EXP/19CTWC040_2019-10-20_03-30-09_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-032510_19CTWC040_NONXBO-EXP/19CTWC040_2019-10-20_03-31-57_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-034145_19CTWC011_NONXBO-EXP/19CTWC011_2019-10-20_03-41-50_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-034145_19CTWC011_NONXBO-EXP/19CTWC011_2019-10-20_03-43-24_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-034145_19CTWC011_NONXBO-EXP/19CTWC011_2019-10-20_03-47-59_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-034145_19CTWC011_NONXBO-EXP/19CTWC011_2019-10-20_03-51-28_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-035940_19CTWC022_NONXBO-EXP/19CTWC022_2019-10-20_03-59-45_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-035940_19CTWC022_NONXBO-EXP/19CTWC022_2019-10-20_04-03-27_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-035940_19CTWC022_NONXBO-EXP/19CTWC022_2019-10-20_04-05-01_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//External_Tournaments/CTWC19/meta-two/meta-two_lab_saturday_804/Logs/NONXBO-EXP_a16c4d3fe9cfcd5b1e8cd81b3fa18a2d/191020-035940_19CTWC022_NONXBO-EXP/19CTWC022_2019-10-20_04-06-05_nonxbo_shortstart.env_ninetillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/No Next Box/F19/191002-133155_19F002_no-next-box/19F002_2019-10-02_13-32-08_no-next-box.env_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/No Next Box/F19/191002-133155_19F002_no-next-box/19F002_2019-10-02_13-43-47_no-next-box.env_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/No Next Box/F19/191002-133155_19F002_no-next-box/19F002_2019-10-02_13-55-30_no-next-box.env_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/No Next Box/F19/191002-133155_19F002_no-next-box/19F002_2019-10-02_14-09-46_no-next-box.env_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/No Next Box/F19/191002-133155_19F002_no-next-box/19F002_2019-10-02_14-13-34_no-next-box.env_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/No Next Box/F19/191002-133155_19F002_no-next-box/19F002_2019-10-02_14-17-46_no-next-box.env_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/No Next Box/F19/191002-133155_19F002_no-next-box/19F002_2019-10-02_14-25-16_no-next-box.env_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/No Next Box/F19/191002-133155_19F002_no-next-box/19F002_2019-10-02_14-31-12_no-next-box.env_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/No Next Box/F19/191002-133809_18F050_no-next-box/18F050_2019-10-02_13-38-37_no-next-box.env_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/No Next Box/F19/191002-133809_18F050_no-next-box/18F050_2019-10-02_13-45-41_no-next-box.env_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/No Next Box/F19/191002-133809_18F050_no-next-box/18F050_2019-10-02_13-57-36_no-next-box.env_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/No Next Box/F19/191002-133809_18F050_no-next-box/18F050_2019-10-02_14-08-32_no-next-box.env_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/No Next Box/F19/191002-133809_18F050_no-next-box/18F050_2019-10-02_14-17-14_no-next-box.env_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/No Next Box/F19/191002-133809_18F050_no-next-box/18F050_2019-10-02_14-24-25_no-next-box.env_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/No Next Box/F19/191002-133809_18F050_no-next-box/18F050_2019-10-02_14-33-22_no-next-box.env_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/No Next Box/F19/191002-133809_18F050_no-next-box/18F050_2019-10-02_14-38-17_no-next-box.env_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190916-141842_19F001_pop-study/19F001_2019-09-16_14-18-55_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190916-141842_19F001_pop-study/19F001_2019-09-16_14-24-51_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190916-141842_19F001_pop-study/19F001_2019-09-16_14-33-05_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190916-141842_19F001_pop-study/19F001_2019-09-16_14-37-24_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190916-141842_19F001_pop-study/19F001_2019-09-16_14-41-58_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190916-141842_19F001_pop-study/19F001_2019-09-16_14-45-49_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190916-141842_19F001_pop-study/19F001_2019-09-16_14-52-08_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190916-141842_19F001_pop-study/19F001_2019-09-16_14-56-45_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190916-141842_19F001_pop-study/19F001_2019-09-16_15-00-52_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190916-141842_19F001_pop-study/19F001_2019-09-16_15-04-52_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190916-141842_19F001_pop-study/19F001_2019-09-16_15-12-28_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190916-142509_19F002_pop-study/19F002_2019-09-16_14-25-29_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190916-142509_19F002_pop-study/19F002_2019-09-16_14-39-25_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190916-142509_19F002_pop-study/19F002_2019-09-16_14-51-24_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190916-142509_19F002_pop-study/19F002_2019-09-16_14-58-51_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190916-142509_19F002_pop-study/19F002_2019-09-16_15-09-19_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190916-142509_19F002_pop-study/19F002_2019-09-16_15-19-36_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190916-142509_19F002_pop-study/19F002_2019-09-16_15-22-35_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-140405_19F003_pop-study/19F003_2019-09-19_14-04-32_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-140405_19F003_pop-study/19F003_2019-09-19_14-09-29_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-140405_19F003_pop-study/19F003_2019-09-19_14-12-31_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-140405_19F003_pop-study/19F003_2019-09-19_14-16-25_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-140405_19F003_pop-study/19F003_2019-09-19_14-21-39_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-140405_19F003_pop-study/19F003_2019-09-19_14-26-51_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-140405_19F003_pop-study/19F003_2019-09-19_14-32-22_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-140405_19F003_pop-study/19F003_2019-09-19_14-36-39_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-140405_19F003_pop-study/19F003_2019-09-19_14-43-07_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-140405_19F003_pop-study/19F003_2019-09-19_14-48-07_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-140405_19F003_pop-study/19F003_2019-09-19_14-55-52_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-140405_19F003_pop-study/19F003_2019-09-19_15-00-43_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-142900_19F004_pop-study/19F004_2019-09-19_14-29-24_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-142900_19F004_pop-study/19F004_2019-09-19_14-33-28_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-142900_19F004_pop-study/19F004_2019-09-19_14-36-38_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-142900_19F004_pop-study/19F004_2019-09-19_14-39-05_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-142900_19F004_pop-study/19F004_2019-09-19_14-41-03_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-142900_19F004_pop-study/19F004_2019-09-19_14-43-37_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-142900_19F004_pop-study/19F004_2019-09-19_14-46-58_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-142900_19F004_pop-study/19F004_2019-09-19_14-50-46_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-142900_19F004_pop-study/19F004_2019-09-19_14-54-46_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-142900_19F004_pop-study/19F004_2019-09-19_14-59-36_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-142900_19F004_pop-study/19F004_2019-09-19_15-02-45_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-142900_19F004_pop-study/19F004_2019-09-19_15-06-51_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-142900_19F004_pop-study/19F004_2019-09-19_15-08-59_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-142900_19F004_pop-study/19F004_2019-09-19_15-11-50_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-142900_19F004_pop-study/19F004_2019-09-19_15-15-59_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-142900_19F004_pop-study/19F004_2019-09-19_15-19-35_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-142900_19F004_pop-study/19F004_2019-09-19_15-25-55_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190919-142900_19F004_pop-study/19F004_2019-09-19_15-27-07_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-141811_19F005_pop-study/19F005_2019-09-20_14-22-27_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-141811_19F005_pop-study/19F005_2019-09-20_14-22-50_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-143332_19F005_pop-study/19F005_2019-09-20_14-33-59_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-143332_19F005_pop-study/19F005_2019-09-20_14-44-42_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-143332_19F005_pop-study/19F005_2019-09-20_14-51-55_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-143332_19F005_pop-study/19F005_2019-09-20_14-59-58_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-143332_19F005_pop-study/19F005_2019-09-20_15-05-59_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-143332_19F005_pop-study/19F005_2019-09-20_15-16-05_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-143332_19F005_pop-study/19F005_2019-09-20_15-23-55_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-143332_19F005_pop-study/19F005_2019-09-20_15-31-18_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-144901_19F006_pop-study/19F006_2019-09-20_14-49-21_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-144901_19F006_pop-study/19F006_2019-09-20_14-56-55_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-144901_19F006_pop-study/19F006_2019-09-20_15-01-42_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-144901_19F006_pop-study/19F006_2019-09-20_15-09-00_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-144901_19F006_pop-study/19F006_2019-09-20_15-13-43_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-144901_19F006_pop-study/19F006_2019-09-20_15-19-20_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-144901_19F006_pop-study/19F006_2019-09-20_15-24-29_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-144901_19F006_pop-study/19F006_2019-09-20_15-31-26_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-144901_19F006_pop-study/19F006_2019-09-20_15-36-28_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-144901_19F006_pop-study/19F006_2019-09-20_15-45-49_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-154909_19F007_pop-study/19F007_2019-09-20_15-49-15_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-154909_19F007_pop-study/19F007_2019-09-20_15-53-02_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-154909_19F007_pop-study/19F007_2019-09-20_16-03-39_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-154909_19F007_pop-study/19F007_2019-09-20_16-12-12_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-154909_19F007_pop-study/19F007_2019-09-20_16-15-22_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-154909_19F007_pop-study/19F007_2019-09-20_16-27-38_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-154909_19F007_pop-study/19F007_2019-09-20_16-34-29_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-154909_19F007_pop-study/19F007_2019-09-20_16-41-19_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-160349_19F008_pop-study/19F008_2019-09-20_16-04-01_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-160349_19F008_pop-study/19F008_2019-09-20_16-09-30_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-160349_19F008_pop-study/19F008_2019-09-20_16-13-23_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-160349_19F008_pop-study/19F008_2019-09-20_16-18-02_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-160349_19F008_pop-study/19F008_2019-09-20_16-21-26_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-160349_19F008_pop-study/19F008_2019-09-20_16-25-41_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-160349_19F008_pop-study/19F008_2019-09-20_16-30-57_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-160349_19F008_pop-study/19F008_2019-09-20_16-34-37_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-160349_19F008_pop-study/19F008_2019-09-20_16-43-29_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-160349_19F008_pop-study/19F008_2019-09-20_16-50-40_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-160349_19F008_pop-study/19F008_2019-09-20_17-00-58_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-171552_19F009_pop-study/19F009_2019-09-20_17-16-15_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-171552_19F009_pop-study/19F009_2019-09-20_17-23-09_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-171552_19F009_pop-study/19F009_2019-09-20_17-31-58_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-171552_19F009_pop-study/19F009_2019-09-20_17-38-40_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-171552_19F009_pop-study/19F009_2019-09-20_17-47-19_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-171552_19F009_pop-study/19F009_2019-09-20_17-58-04_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-171552_19F009_pop-study/19F009_2019-09-20_18-06-05_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190920-171552_19F009_pop-study/19F009_2019-09-20_18-11-50_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190925-100122_TEST_pop-study/TEST_2019-09-25_10-01-25_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-143326_19F010_pop-study/19F010_2019-09-27_14-33-33_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-143326_19F010_pop-study/19F010_2019-09-27_14-39-08_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-143326_19F010_pop-study/19F010_2019-09-27_14-44-26_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-143326_19F010_pop-study/19F010_2019-09-27_14-49-03_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-143326_19F010_pop-study/19F010_2019-09-27_14-55-14_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-143326_19F010_pop-study/19F010_2019-09-27_15-00-12_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-143326_19F010_pop-study/19F010_2019-09-27_15-04-47_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-143326_19F010_pop-study/19F010_2019-09-27_15-15-01_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-143326_19F010_pop-study/19F010_2019-09-27_15-23-16_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-143326_19F010_pop-study/19F010_2019-09-27_15-26-20_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-143326_19F010_pop-study/19F010_2019-09-27_15-34-49_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-145415_19F011_pop-study/19F011_2019-09-27_14-54-25_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-145415_19F011_pop-study/19F011_2019-09-27_14-59-33_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-145415_19F011_pop-study/19F011_2019-09-27_15-03-15_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-145415_19F011_pop-study/19F011_2019-09-27_15-12-36_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-145415_19F011_pop-study/19F011_2019-09-27_15-18-01_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-145415_19F011_pop-study/19F011_2019-09-27_15-23-40_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-145415_19F011_pop-study/19F011_2019-09-27_15-31-13_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-145415_19F011_pop-study/19F011_2019-09-27_15-35-34_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-145415_19F011_pop-study/19F011_2019-09-27_15-41-15_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-145415_19F011_pop-study/19F011_2019-09-27_15-43-52_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-145415_19F011_pop-study/19F011_2019-09-27_15-49-58_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-153856_19F012_pop-study/19F012_2019-09-27_15-39-24_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-153856_19F012_pop-study/19F012_2019-09-27_15-44-27_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-153856_19F012_pop-study/19F012_2019-09-27_15-48-19_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-153856_19F012_pop-study/19F012_2019-09-27_15-52-15_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-153856_19F012_pop-study/19F012_2019-09-27_15-55-43_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-153856_19F012_pop-study/19F012_2019-09-27_15-58-21_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-153856_19F012_pop-study/19F012_2019-09-27_16-03-57_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-153856_19F012_pop-study/19F012_2019-09-27_16-07-16_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-153856_19F012_pop-study/19F012_2019-09-27_16-13-27_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-153856_19F012_pop-study/19F012_2019-09-27_16-17-58_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-153856_19F012_pop-study/19F012_2019-09-27_16-22-41_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-153856_19F012_pop-study/19F012_2019-09-27_16-27-20_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-153856_19F012_pop-study/19F012_2019-09-27_16-33-09_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-153856_19F012_pop-study/19F012_2019-09-27_16-35-33_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-160227_19F013_pop-study/19F013_2019-09-27_16-02-43_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-160227_19F013_pop-study/19F013_2019-09-27_16-09-43_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-160227_19F013_pop-study/19F013_2019-09-27_16-12-45_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-160227_19F013_pop-study/19F013_2019-09-27_16-15-00_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-160227_19F013_pop-study/19F013_2019-09-27_16-17-20_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-160227_19F013_pop-study/19F013_2019-09-27_16-20-57_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-160227_19F013_pop-study/19F013_2019-09-27_16-28-18_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-160227_19F013_pop-study/19F013_2019-09-27_16-31-52_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-160227_19F013_pop-study/19F013_2019-09-27_16-37-49_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-160227_19F013_pop-study/19F013_2019-09-27_16-43-01_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-160227_19F013_pop-study/19F013_2019-09-27_16-44-42_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-160227_19F013_pop-study/19F013_2019-09-27_16-52-57_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-160227_19F013_pop-study/19F013_2019-09-27_16-56-17_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/190927-160227_19F013_pop-study/19F013_2019-09-27_16-59-17_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191001-133256_19F015_pop-study/19F015_2019-10-01_13-33-15_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191001-133256_19F015_pop-study/19F015_2019-10-01_13-40-09_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191001-133256_19F015_pop-study/19F015_2019-10-01_13-49-20_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191001-133256_19F015_pop-study/19F015_2019-10-01_13-55-55_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191001-133256_19F015_pop-study/19F015_2019-10-01_14-06-00_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191001-133256_19F015_pop-study/19F015_2019-10-01_14-12-43_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191001-133256_19F015_pop-study/19F015_2019-10-01_14-17-59_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191001-133256_19F015_pop-study/19F015_2019-10-01_14-21-46_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191001-140621_19F016_pop-study/19F016_2019-10-01_14-06-37_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191001-140621_19F016_pop-study/19F016_2019-10-01_14-17-54_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191001-140621_19F016_pop-study/19F016_2019-10-01_14-23-24_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191001-140621_19F016_pop-study/19F016_2019-10-01_14-26-24_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191001-140621_19F016_pop-study/19F016_2019-10-01_14-30-37_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191001-140621_19F016_pop-study/19F016_2019-10-01_14-35-26_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191001-140621_19F016_pop-study/19F016_2019-10-01_14-40-29_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191001-140621_19F016_pop-study/19F016_2019-10-01_14-43-02_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191001-140621_19F016_pop-study/19F016_2019-10-01_14-47-40_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191001-140621_19F016_pop-study/19F016_2019-10-01_15-04-27_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191004-123517_19F014_pop-study/19F014_2019-10-04_12-36-02_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191004-123517_19F014_pop-study/19F014_2019-10-04_12-38-39_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191004-123517_19F014_pop-study/19F014_2019-10-04_12-42-14_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191004-123517_19F014_pop-study/19F014_2019-10-04_12-48-04_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191004-123517_19F014_pop-study/19F014_2019-10-04_12-56-53_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191004-123517_19F014_pop-study/19F014_2019-10-04_13-03-38_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191004-123517_19F014_pop-study/19F014_2019-10-04_13-12-33_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191004-123517_19F014_pop-study/19F014_2019-10-04_13-19-33_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191004-123517_19F014_pop-study/19F014_2019-10-04_13-26-21_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191004-123517_19F014_pop-study/19F014_2019-10-04_13-30-53_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191004-134400_19F017_pop-study/19F017_2019-10-04_13-44-29_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191004-134400_19F017_pop-study/19F017_2019-10-04_13-47-47_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191004-134400_19F017_pop-study/19F017_2019-10-04_13-51-35_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191004-134400_19F017_pop-study/19F017_2019-10-04_13-59-06_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191004-134400_19F017_pop-study/19F017_2019-10-04_14-08-35_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191004-134400_19F017_pop-study/19F017_2019-10-04_14-12-25_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191004-134400_19F017_pop-study/19F017_2019-10-04_14-18-11_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191004-134400_19F017_pop-study/19F017_2019-10-04_14-23-44_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191004-134400_19F017_pop-study/19F017_2019-10-04_14-29-27_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191004-134400_19F017_pop-study/19F017_2019-10-04_14-40-42_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191008-161218_test_pop-study/test_2019-10-08_16-12-20_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191008-161821_19F018_pop-study/19F018_2019-10-08_16-18-46_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191008-161821_19F018_pop-study/19F018_2019-10-08_16-25-12_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191008-161821_19F018_pop-study/19F018_2019-10-08_16-30-28_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191008-161821_19F018_pop-study/19F018_2019-10-08_16-36-16_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191008-161821_19F018_pop-study/19F018_2019-10-08_16-41-18_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191008-161821_19F018_pop-study/19F018_2019-10-08_16-46-25_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191008-161821_19F018_pop-study/19F018_2019-10-08_16-51-07_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191008-161821_19F018_pop-study/19F018_2019-10-08_16-57-41_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191008-161821_19F018_pop-study/19F018_2019-10-08_17-05-44_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191008-161821_19F018_pop-study/19F018_2019-10-08_17-10-45_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191008-161821_19F018_pop-study/19F018_2019-10-08_17-17-15_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191010-100016_19F019_pop-study/19F019_2019-10-10_10-00-36_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191010-100016_19F019_pop-study/19F019_2019-10-10_10-14-51_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191010-100016_19F019_pop-study/19F019_2019-10-10_10-23-38_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191010-100016_19F019_pop-study/19F019_2019-10-10_10-27-36_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191010-100016_19F019_pop-study/19F019_2019-10-10_10-35-34_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191010-100016_19F019_pop-study/19F019_2019-10-10_10-38-45_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191010-100016_19F019_pop-study/19F019_2019-10-10_10-52-34_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191010-100016_19F019_pop-study/19F019_2019-10-10_10-57-52_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191010-102414_19f020_pop-study/19f020_2019-10-10_10-24-44_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191010-102414_19f020_pop-study/19f020_2019-10-10_10-39-49_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191010-102414_19f020_pop-study/19f020_2019-10-10_10-44-45_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191010-102414_19f020_pop-study/19f020_2019-10-10_10-55-46_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191010-102414_19f020_pop-study/19f020_2019-10-10_11-03-11_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191010-102414_19f020_pop-study/19f020_2019-10-10_11-10-31_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191010-102414_19f020_pop-study/19f020_2019-10-10_11-20-04_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191011-120322_19F021_pop-study/19F021_2019-10-11_12-03-50_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191011-120322_19F021_pop-study/19F021_2019-10-11_12-13-17_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191011-120322_19F021_pop-study/19F021_2019-10-11_12-20-59_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191011-120322_19F021_pop-study/19F021_2019-10-11_12-23-53_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191011-120322_19F021_pop-study/19F021_2019-10-11_12-30-27_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191011-120322_19F021_pop-study/19F021_2019-10-11_12-39-04_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191011-120322_19F021_pop-study/19F021_2019-10-11_12-50-01_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191011-120322_19F021_pop-study/19F021_2019-10-11_12-53-39_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191011-120322_19F021_pop-study/19F021_2019-10-11_13-02-31_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191011-121059_19F022_pop-study/19F022_2019-10-11_12-11-10_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191011-121059_19F022_pop-study/19F022_2019-10-11_12-20-30_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191011-121059_19F022_pop-study/19F022_2019-10-11_12-28-43_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191011-121059_19F022_pop-study/19F022_2019-10-11_12-31-57_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191011-121059_19F022_pop-study/19F022_2019-10-11_12-38-53_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191011-121059_19F022_pop-study/19F022_2019-10-11_12-44-46_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191011-121059_19F022_pop-study/19F022_2019-10-11_12-54-23_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191011-121059_19F022_pop-study/19F022_2019-10-11_13-00-10_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191011-121059_19F022_pop-study/19F022_2019-10-11_13-10-48_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191022-123046_19F023_pop-study/19F023_2019-10-22_12-30-49_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191022-123046_19F023_pop-study/19F023_2019-10-22_12-38-29_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191022-123046_19F023_pop-study/19F023_2019-10-22_12-44-43_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191022-123046_19F023_pop-study/19F023_2019-10-22_12-47-13_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191022-123046_19F023_pop-study/19F023_2019-10-22_12-55-50_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191022-123046_19F023_pop-study/19F023_2019-10-22_13-05-39_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191022-123046_19F023_pop-study/19F023_2019-10-22_13-09-08_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191022-123046_19F023_pop-study/19F023_2019-10-22_13-13-32_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191022-123046_19F023_pop-study/19F023_2019-10-22_13-21-07_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191022-123046_19F023_pop-study/19F023_2019-10-22_13-28-24_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191022-160117_19F024_pop-study/19F024_2019-10-22_16-01-31_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191022-160117_19F024_pop-study/19F024_2019-10-22_16-06-52_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191022-160117_19F024_pop-study/19F024_2019-10-22_16-10-32_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191022-160117_19F024_pop-study/19F024_2019-10-22_16-15-23_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191022-160117_19F024_pop-study/19F024_2019-10-22_16-18-30_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191022-160117_19F024_pop-study/19F024_2019-10-22_16-24-15_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191022-160117_19F024_pop-study/19F024_2019-10-22_16-30-02_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191022-160117_19F024_pop-study/19F024_2019-10-22_16-35-08_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191022-160117_19F024_pop-study/19F024_2019-10-22_16-42-08_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191022-160117_19F024_pop-study/19F024_2019-10-22_16-46-41_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191022-160117_19F024_pop-study/19F024_2019-10-22_16-49-41_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191022-160117_19F024_pop-study/19F024_2019-10-22_16-58-15_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191024-102208_19F025_pop-study/19F025_2019-10-24_10-22-20_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191024-102208_19F025_pop-study/19F025_2019-10-24_10-33-13_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191024-102208_19F025_pop-study/19F025_2019-10-24_10-36-34_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191024-102208_19F025_pop-study/19F025_2019-10-24_10-44-02_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191024-102208_19F025_pop-study/19F025_2019-10-24_10-45-04_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191024-102208_19F025_pop-study/19F025_2019-10-24_10-50-16_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191024-102208_19F025_pop-study/19F025_2019-10-24_10-55-43_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191024-102208_19F025_pop-study/19F025_2019-10-24_10-58-29_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191024-102208_19F025_pop-study/19F025_2019-10-24_11-00-39_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191024-102208_19F025_pop-study/19F025_2019-10-24_11-05-10_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191024-102208_19F025_pop-study/19F025_2019-10-24_11-06-16_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191024-102208_19F025_pop-study/19F025_2019-10-24_11-06-40_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191024-102208_19F025_pop-study/19F025_2019-10-24_11-06-57_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191024-102208_19F025_pop-study/19F025_2019-10-24_11-11-59_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191024-102208_19F025_pop-study/19F025_2019-10-24_11-18-59_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191024-102809_19F026_pop-study/19F026_2019-10-24_10-28-29_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191024-102809_19F026_pop-study/19F026_2019-10-24_10-37-14_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191024-102809_19F026_pop-study/19F026_2019-10-24_10-43-24_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191024-102809_19F026_pop-study/19F026_2019-10-24_10-49-33_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191024-102809_19F026_pop-study/19F026_2019-10-24_11-01-35_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191024-102809_19F026_pop-study/19F026_2019-10-24_11-14-04_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//Lab Experiments/Population Study/Data/F19/Population Study/191024-102809_19F026_pop-study/19F026_2019-10-24_11-25-03_classic-tetris_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 1/190223-140200_19GC001/19GC001_2019-02-23_14-02-06_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 1/190223-140200_19GC001/19GC001_2019-02-23_14-10-57_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 1/190223-142231_19GC007/19GC007_2019-02-23_14-22-41_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 1/190223-142231_19GC007/19GC007_2019-02-23_14-33-28_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 1/190223-144358_19GC012/19GC012_2019-02-23_14-44-24_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 1/190223-144358_19GC012/19GC012_2019-02-23_14-52-39_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 1/190223-150317_19GC016/19GC016_2019-02-23_15-03-26_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 1/190223-150317_19GC016/19GC016_2019-02-23_15-11-13_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 1/190223-151708_19GC020/19GC020_2019-02-23_15-17-34_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 1/190223-151708_19GC020/19GC020_2019-02-23_15-31-17_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 1/190223-161534_GC030/GC030_2019-02-23_16-15-46_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 1/190223-161534_GC030/GC030_2019-02-23_16-25-36_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 2/190223-140335_19GC004/19GC004_2019-02-23_14-03-39_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 2/190223-140335_19GC004/19GC004_2019-02-23_14-10-02_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 2/190223-141604_19GC005/19GC005_2019-02-23_14-16-14_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 2/190223-141604_19GC005/19GC005_2019-02-23_14-19-40_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 2/190223-142924_19GC009/19GC009_2019-02-23_14-29-29_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 2/190223-142924_19GC009/19GC009_2019-02-23_14-45-28_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 2/190223-145836_19GC015/19GC015_2019-02-23_14-58-47_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 2/190223-145836_19GC015/19GC015_2019-02-23_15-05-30_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 2/190223-150800_19GC017/19GC017_2019-02-23_15-08-03_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 2/190223-150800_19GC017/19GC017_2019-02-23_15-16-03_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 2/190223-152343_19GC022/19GC022_2019-02-23_15-23-55_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 2/190223-152343_19GC022/19GC022_2019-02-23_15-34-39_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 2/190223-160529_19GC026/19GC026_2019-02-23_16-05-33_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 2/190223-160529_19GC026/19GC026_2019-02-23_16-15-11_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 2/190223-162357_19GC031/19GC031_2019-02-23_16-24-30_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 2/190223-162357_19GC031/19GC031_2019-02-23_16-38-22_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 2/190223-162357_19GC031/19GC031_2019-02-23_16-44-17_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 3/190223-140239_19GC003/19GC003_2019-02-23_14-03-13_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 3/190223-140239_19GC003/19GC003_2019-02-23_14-12-55_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 3/190223-141820_19GC006/19GC006_2019-02-23_14-18-26_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 3/190223-141820_19GC006/19GC006_2019-02-23_14-28-56_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 3/190223-143621_19GC010/19GC010_2019-02-23_14-36-25_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 3/190223-143621_19GC010/19GC010_2019-02-23_14-58-18_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 3/190223-151350_19GC021/19GC021_2019-02-23_15-14-15_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 3/190223-151350_19GC021/19GC021_2019-02-23_15-20-37_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 3/190223-152607_19GC023/19GC023_2019-02-23_15-26-12_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 3/190223-152607_19GC023/19GC023_2019-02-23_15-35-10_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 3/190223-154322_19GC025/19GC025_2019-02-23_15-43-50_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 3/190223-154322_19GC025/19GC025_2019-02-23_15-56-27_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 3/190223-160959_19GC027/19GC027_2019-02-23_16-10-53_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 3/190223-160959_19GC027/19GC027_2019-02-23_16-20-20_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 3/190223-162822_19GC028/19GC028_2019-02-23_16-28-33_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 3/190223-162822_19GC028/19GC028_2019-02-23_16-39-10_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 4/190223-140239_19GC002/19GC002_2019-02-23_14-02-48_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 4/190223-140239_19GC002/19GC002_2019-02-23_14-12-34_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 4/190223-142257_19GC008/19GC008_2019-02-23_14-23-05_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 4/190223-142257_19GC008/19GC008_2019-02-23_14-37-26_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 4/190223-144156_19GC011/19GC011_2019-02-23_14-42-21_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 4/190223-144156_19GC011/19GC011_2019-02-23_14-46-39_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 4/190223-145604_19GC014/19GC014_2019-02-23_14-56-12_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 4/190223-145604_19GC014/19GC014_2019-02-23_15-02-37_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 4/190223-151227_19GC018/19GC018_2019-02-23_15-12-40_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 4/190223-151227_19GC018/19GC018_2019-02-23_15-22-09_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 4/190223-152909_19GC024/19GC024_2019-02-23_15-29-33_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 4/190223-152909_19GC024/19GC024_2019-02-23_15-34-53_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 4/190223-154203_19GC019/19GC019_2019-02-23_15-42-42_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 4/190223-154203_19GC019/19GC019_2019-02-23_15-52-23_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 4/190223-161430_19GC028/19GC028_2019-02-23_16-14-45_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Qualifiers Laptop 4/190223-161430_19GC028/19GC028_2019-02-23_16-25-01_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Tournament Laptop 1/190223-180417_19GC006/19GC006_2019-02-23_18-05-06_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Tournament Laptop 1/190223-180915_19GC010/19GC010_2019-02-23_18-09-48_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Tournament Laptop 1/190223-182037_19GC014/19GC014_2019-02-23_18-21-11_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Tournament Laptop 1/190223-182813_19GC028/19GC028_2019-02-23_18-29-25_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Tournament Laptop 1/190223-183955_19GC007/19GC007_2019-02-23_18-41-00_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Tournament Laptop 1/190223-185027_19GC014/19GC014_2019-02-23_18-51-18_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Tournament Laptop 1/190223-190421_19GC014/19GC014_2019-02-23_19-05-23_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Tournament Laptop 1/190223-191446_19GC028/19GC028_2019-02-23_19-15-21_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Tournament Laptop 2/190223-180402_19GC007/19GC007_2019-02-23_18-05-05_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Tournament Laptop 2/190223-180913_19G022/19G022_2019-02-23_18-09-47_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Tournament Laptop 2/190223-182019_19G002/19G002_2019-02-23_18-21-11_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Tournament Laptop 2/190223-182829_19GC009/19GC009_2019-02-23_18-29-24_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Tournament Laptop 2/190223-184007_19GC022/19GC022_2019-02-23_18-41-00_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Tournament Laptop 2/190223-185055_19GC028/19GC028_2019-02-23_18-51-17_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Tournament Laptop 2/190223-190407_19GC007/19GC007_2019-02-23_19-05-22_standard_zerotillend.tsv
+/mnt/hassServer/Active_Projects/Tetris//RPI Tournaments/2019_Genericon_Tournament/Tournament Laptop 2/190223-191442_19GC022/19GC022_2019-02-23_19-15-20_standard_zerotillend.tsv
