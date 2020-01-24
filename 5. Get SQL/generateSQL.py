@@ -1,15 +1,9 @@
 import pandas as pd
 import re
 from io import StringIO
+from utilities import get_schema, get_SQLConnection, get_metaDataColumns, get_dataColumns
 
-columns_data = ['gameID', 'ts', 'system_ticks', 'event_type', 'episode_number', \
-                'level', 'score', 'lines_cleared', 'evt_id', 'evt_data1', \
-                'evt_data2', 'curr_zoid', 'next_zoid', 'board_rep', 'zoid_rep']
-columns_metadata = ["gameID", "Meta-Two build", "Exp. Start Time", "Game Start", "GameStart Tick", \
-            "CPU Tick Frequency", "SID", "USID", "ECID", "Environment", "Task", \
-            "SessionNr.", "GameNr.", "Input type", "Connected Inputs", "randSeed", \
-            "Screen resolution", "Screen dpi", "Fullscreen", "Window height", \
-            "Window width", "md5sum study", "md5sum task", "md5sum environment"]
+con_engine = get_SQLConnection()
 
 
 def grab_data(file_content, gameID):
@@ -35,7 +29,7 @@ def grab_data(file_content, gameID):
     extra_columns = updated_content[1].count("\t") - updated_content[0].count("\t")
     temp = pd.read_csv(StringIO(updated_content), delimiter='\t', encoding='utf-8')
     temp.insert(0, "gameID", [gameID]*temp.shape[0], True)
-    temp = temp[columns_data]
+    temp = temp[get_dataColumns()]
     
     return temp
 
@@ -79,11 +73,11 @@ def merge_dataFrames(main_df, new_df, type):
 
 
 def execute(gameID):
+    gameID+=1
+    data, metaData = get_schema()
+
     file_list = open("../1. Fetch Files/MetaTwo_fileList.txt")
     fileCount=0
-
-    data = pd.DataFrame(columns=columns_data)
-    metaData = pd.DataFrame(columns=columns_metadata)
 
     for dataFile in file_list:
         fileCount+=1
@@ -97,39 +91,36 @@ def execute(gameID):
         # Replace extra tabs in the file for pandas suitable format
         with open(dataFile) as temp:
             content = temp.readlines()
-            # print(content[0:25])
 
         # Donot change order of the following function calls 'grab_data' modifies 'content'
         new_metaData = grab_metadata(content, gameID)
         new_data = grab_data(content, gameID)
 
-        # new_metaData.to_csv(r'./File2.csv')
-        # new_data.to_csv(r'./File.csv')
-
         data = merge_dataFrames(data, new_data, "data")
         metaData = merge_dataFrames(metaData, new_metaData, "meta")
 
-        gameID+=1
-
         # To avoid running out of emory write current data and clear out old data
         if fileCount%1 == 0:
-            data.to_sql("Meta2_gameData", con, schema="Meta2Data", if_exists='append', index=False, chunksize=100, method=None)
-            metaData.to_sql("Meta2_gameMetadata", con, schema="Meta2Data", if_exists='append', index=False, chunksize=50000, method=None)
-            data = pd.DataFrame(columns=columns_data)
-            metaData = pd.DataFrame(columns=columns_metadata)
+            data.to_sql("GameLogs", con_engine, if_exists='append', index=False, chunksize=100, method=None)
+            metaData.to_sql("GameSummaries", con_engine, if_exists='append', index=False, chunksize=50000, method=None)
+            data, metaData = get_schema()
 
-        if fileCount == 2:
-            break
+        # if fileCount == 2:
+        #     break
+        break
 
-        # break
-
-    data.to_sql("Meta2_gameData", con, schema="Meta2Data", if_exists='append', index=False, chunksize=100, method=None)
-    metaData.to_sql("Meta2_gameMetadata", con, schema="Meta2Data", if_exists='append', index=False, chunksize=50000, method=None)
+    data.to_sql("GameLog", con_engine, if_exists='append', index=False, chunksize=100, method=None)
+    metaData.to_sql("MetaData", con_engine, if_exists='append', index=False, chunksize=50000, method=None)
 
     # print("Total number of files parsed : ", fileCount)
 
 
 
-
 # The parameter to the execute function is the number to start the primary key for each game
-execute(1)
+connection = con_engine.connect()
+try :
+    gameID = connection.execute("SELECT MAX(GameID) FROM GameSummaries;").fetchone()[0]
+except:
+    gameID = 0
+
+execute(gameID)
