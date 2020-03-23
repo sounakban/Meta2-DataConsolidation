@@ -3,7 +3,7 @@ import re
 from io import StringIO
 from utilities import get_schema, get_SQLConnection, get_metaDataColumns, get_dataColumns
 
-con_engine = get_SQLConnection()
+# con_engine = get_SQLConnection()
 
 
 def grab_data(file_content, gameID):
@@ -69,7 +69,7 @@ def change_format(df):
 
 def merge_dataFrames(main_df, new_df, type):
     if type == "meta":
-        change_format(new_df)
+        new_df = change_format(new_df)
     main_df = pd.concat([main_df, new_df], sort=False)
     return main_df
 
@@ -102,27 +102,27 @@ def execute(gameID):
         metaData = merge_dataFrames(metaData, new_metaData, "meta")
 
         # To avoid running out of emory write current data and clear out old data
-        if fileCount%1 == 0:
-            data.to_sql("GameLogs", con_engine, if_exists='append', index=False, chunksize=100, method=None)
-            metaData.to_sql("GameSummaries", con_engine, if_exists='append', index=False, chunksize=50000, method=None)
+        if fileCount%300 == 0:
+            # data.to_sql("GameLogs", con_engine, if_exists='append', index=False, chunksize=100, method=None)
+            # metaData.to_sql("GameSummaries", con_engine, if_exists='append', index=False, chunksize=50000, method=None)
             data, metaData = get_schema()
 
         # if fileCount == 2:
         #     break
-        break
 
-    data.to_sql("GameLog", con_engine, if_exists='append', index=False, chunksize=100, method=None)
-    metaData.to_sql("MetaData", con_engine, if_exists='append', index=False, chunksize=50000, method=None)
+    # data.to_sql("GameLog", con_engine, if_exists='append', index=False, chunksize=100, method=None)
+    # metaData.to_sql("MetaData", con_engine, if_exists='append', index=False, chunksize=50000, method=None)
 
     # print("Total number of files parsed : ", fileCount)
 
 
 
 # The parameter to the execute function is the number to start the primary key for each game
-connection = con_engine.connect()
-try :
-    gameID = connection.execute("SELECT MAX(GameID) FROM GameSummaries;").fetchone()[0]
-except:
-    gameID = 0
+# connection = con_engine.connect()
+# try :
+#     gameID = connection.execute("SELECT MAX(GameID) FROM GameSummaries;").fetchone()[0]
+# except:
+#     gameID = 0
 
+gameID = 0
 execute(gameID)
