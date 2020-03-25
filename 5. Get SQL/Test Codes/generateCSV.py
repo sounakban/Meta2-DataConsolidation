@@ -32,7 +32,7 @@ def grab_data(file_content, gameID):
     return temp
 
 
-def grab_metadata(file_content, gameID):
+def grab_metadata(file_content, gameID, filePath):
     metadata = {}
     for line in file_content:
         temp = re.sub('\t\t+','\t',line).strip()        # make new build data compatible to old build data
@@ -46,6 +46,7 @@ def grab_metadata(file_content, gameID):
 
     temp = pd.DataFrame.from_dict(metadata)
     temp.insert(0, "gameID", [gameID], True)
+    temp.insert(0, "filePath", [filePath], True)
     return temp
 
 
@@ -73,20 +74,22 @@ def merge_dataFrames(main_df, new_df, type):
 
 
 def execute(gameID, begin, end):
-    gameID+=1
     data, metaData = get_schema()
 
     file_list = open("../1. Fetch Files/MetaTwo_fileList.txt")
     fileCount=0
 
     for dataFile in file_list:
+        if "eye" in dataFile:       # Skip if data is eye data
+            continue
+
         fileCount+=1
+        print(fileCount)
+        gameID+=1
+        
         if fileCount < begin:
             continue
-        print(fileCount)
-        if "eye" in dataFile:       # Skip if data is eye data
-            fileCount-=1
-            continue
+
         dataFile = dataFile.strip()     # Remove spaces from begining or end of file name
         print(dataFile)
 
@@ -95,7 +98,7 @@ def execute(gameID, begin, end):
             content = temp.readlines()
 
         # Donot change order of the following function calls 'grab_data' modifies 'content'
-        new_metaData = grab_metadata(content, gameID)
+        new_metaData = grab_metadata(content, gameID, dataFile)
         new_data = grab_data(content, gameID)
 
         data = merge_dataFrames(data, new_data, "data")

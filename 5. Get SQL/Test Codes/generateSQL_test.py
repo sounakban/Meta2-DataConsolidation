@@ -75,18 +75,18 @@ def merge_dataFrames(main_df, new_df, type):
 
 
 def execute(gameID):
-    gameID+=1
     data, metaData = get_schema()
 
     file_list = open("../1. Fetch Files/MetaTwo_fileList.txt")
     fileCount=0
 
     for dataFile in file_list:
+        if "eye" in dataFile:       # Skip if data is eye data
+            continue
+
         fileCount+=1
         print(fileCount)
-        if "eye" in dataFile:       # Skip if data is eye data
-            fileCount-=1
-            continue
+        gameID+=1
         dataFile = dataFile.strip()     # Remove spaces from begining or end of file name
         print(dataFile)
 

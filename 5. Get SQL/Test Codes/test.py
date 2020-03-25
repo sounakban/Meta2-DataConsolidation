@@ -68,67 +68,68 @@ def change_format(df):
 
 def merge_dataFrames(main_df, new_df, type):
     if type == "meta":
-        change_format(new_df)
+        new_df = change_format(new_df)
     main_df = pd.concat([main_df, new_df], sort=False)
     return main_df
 
 
-def execute(gameID):
+def execute(gameID, begin, end):
     data, metaData = get_schema()
 
     file_list = open("../1. Fetch Files/MetaTwo_fileList.txt")
     fileCount=0
-    rowCount=0
 
     for dataFile in file_list:
-        if "eye" in dataFile:       # Skip if data is eye data
-            continue
-
         fileCount+=1
+        if fileCount < begin:
+            continue
         print(fileCount)
+        if "eye" in dataFile:       # Skip if data is eye data
+            fileCount-=1
+            continue
         gameID+=1
         dataFile = dataFile.strip()     # Remove spaces from begining or end of file name
-        print(dataFile)
+        print('/'.join(dataFile.split('/')[3:]))
 
         # Replace extra tabs in the file for pandas suitable format
         with open(dataFile) as temp:
             content = temp.readlines()
 
         # Donot change order of the following function calls 'grab_data' modifies 'content'
-
         new_metaData = grab_metadata(content, gameID, dataFile[dataFile.find('Tetris'):])
         new_data = grab_data(content, gameID)
-        rowCount+=len(new_data.index)
 
         data = merge_dataFrames(data, new_data, "data")
         metaData = merge_dataFrames(metaData, new_metaData, "meta")
 
         # To avoid running out of emory write current data and clear out old data
-        if fileCount%100 == 0:
-            data.to_sql("GameLogs", con_engine, if_exists='append', index=False, chunksize=100, method=None)
-            metaData.to_sql("GameSummaries", con_engine, if_exists='append', index=False, chunksize=50000, method=None)
+        if fileCount%30 == 0:
+            writemode = 'a'
+            header = False
+            if  fileCount == 30:
+                writemode = 'w'
+                header = True
+            metaData.to_csv(r'./metaFile.csv', index=False, mode=writemode, header=header)
+            data.to_csv(r'./File.csv', index=False, mode=writemode, header=header)
             data, metaData = get_schema()
 
-        # if fileCount == 3:
-        #     break
+        if fileCount > 2:
+            break
 
-    data.to_sql("GameLogs", con_engine, if_exists='append', index=False, chunksize=100, method=None)
-    metaData.to_sql("GameSummaries", con_engine, if_exists='append', index=False, chunksize=50000, method=None)
+    if  fileCount < 30:
+        writemode = 'w'
+        header = True
+    else:
+        writemode = 'a'
+        header = False
+    metaData.to_csv(r'./metaFile.csv', index=False, mode=writemode, header=header)
+    data.to_csv(r'./File.csv', index=False, mode=writemode, header=header)
 
-    print("Total Number of files parsed : ", fileCount)
-    print("Total Data rows written : ", rowCount)
+    # print("Total number of files parsed : ", fileCount)
 
 
-
-
-
-con_engine = get_SQLConnection('mysql+pymysql://sounak:9831773263@localhost/Meta2_DB')
-
-# The parameter to the execute function is the number to start the primary key for each game
-connection = con_engine.connect()
-try :
-    gameID = connection.execute("SELECT MAX(GameID) FROM GameSummaries;").fetchone()[0]
-except:
+for i in range(0, 1300, 100):
+    begin = i
+    end = begin+30
     gameID = 0
-
-execute(gameID)
+    execute(gameID, begin, end)
