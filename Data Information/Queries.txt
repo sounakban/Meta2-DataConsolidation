@@ -1,0 +1,65 @@
+SHOW TABLES;
++--------------------+
+| Tables_in_Meta2_DB |
++--------------------+
+| GameLogs           |
+| GameSummaries      |
++--------------------+
+
+DESCRIBE GameLogs;
++----------------+--------+------+-----+---------+-------+
+| Field          | Type   | Null | Key | Default | Extra |
++----------------+--------+------+-----+---------+-------+
+| gameID         | bigint | YES  |     | NULL    |       |
+| ts             | double | YES  |     | NULL    |       |
+| system_ticks   | bigint | YES  |     | NULL    |       |
+| event_type     | text   | YES  |     | NULL    |       |
+| episode_number | bigint | YES  |     | NULL    |       |
+| level          | bigint | YES  |     | NULL    |       |
+| score          | bigint | YES  |     | NULL    |       |
+| lines_cleared  | bigint | YES  |     | NULL    |       |
+| evt_id         | text   | YES  |     | NULL    |       |
+| evt_data1      | text   | YES  |     | NULL    |       |
+| evt_data2      | text   | YES  |     | NULL    |       |
+| curr_zoid      | text   | YES  |     | NULL    |       |
+| next_zoid      | text   | YES  |     | NULL    |       |
+| board_rep      | text   | YES  |     | NULL    |       |
+| zoid_rep       | text   | YES  |     | NULL    |       |
++----------------+--------+------+-----+---------+-------+
+15 rows in set (0.00 sec)
+
+SELECT max(gameID) FROM GameSummaries;
++-------------+
+| max(gameID) |
++-------------+
+|        1402 |
++-------------+
+1 row in set (0.07 sec)
+
+
+
+
+
+
+
+SELECT COUNT(*) FROM GameSummaries WHERE filepath LIKE '%FA19_tmp%';
++----------+
+| COUNT(*) |
++----------+
+|      336 |
++----------+
+1 row in set (0.20 sec)
+
+
+SELECT COUNT(*) FROM GameLogs WHERE gameID IN (SELECT gameID  FROM GameSummaries WHERE filepath LIKE '%FA19_tmp%');
++----------+
+| COUNT(*) |
++----------+
+|  8664894 |
++----------+
+1 row in set (6 min 55.88 sec)
+
+
+DELETE FROM GameLogs WHERE gameID IN (SELECT gameID FROM GameSummaries WHERE filepath LIKE '%FA19_tmp%');
+
+DELETE FROM GameSummaries WHERE filepath LIKE '%FA19_tmp%';
